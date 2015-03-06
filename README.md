@@ -1,2 +1,2 @@
 # mvnweb
-lab maven web
+lab maven web, teknologi : maven, spring, mybatis 
